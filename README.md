@@ -41,6 +41,6 @@
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diksha26P&theme=material_palenight)
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diksha26P&theme=onedark)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diksha26P&theme=material_palenight)
 
-![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diksha26P&theme=onedark)
+![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diksha26P&theme=material_palenight)
