@@ -44,3 +44,5 @@
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diksha26P&theme=material_palenight)
 
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diksha26P&theme=material_palenight)
+
+![Profile Visits](https://komarev.com/ghpvc/?username=diksha26P&color=B026FF&style=flat)
