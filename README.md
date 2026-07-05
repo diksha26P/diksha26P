@@ -2,6 +2,8 @@
 
 [![capsule-render](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Diksha%20Pawar&desc=Assistant%20Professor)](https://github.com/diksha26P)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://diksha-3d-portfolio.vercel.app/)
+
 </div>
 
 ---
